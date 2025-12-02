@@ -54,7 +54,7 @@ The following table lists the configurable parameters of the NetBird Helm chart 
 | dashboard.envRaw | list | `[]` |  |
 | dashboard.image.pullPolicy | string | `"IfNotPresent"` |  |
 | dashboard.image.repository | string | `"netbirdio/dashboard"` |  |
-| dashboard.image.tag | string | `"v2.22.2"` |  |
+| dashboard.image.tag | string | `"v2.23.0"` |  |
 | dashboard.imagePullSecrets | list | `[]` |  |
 | dashboard.initContainers | list | `[]` | |
 | dashboard.ingress.annotations | object | `{}` |  |
